@@ -5,4 +5,4 @@ If you have an idea, just add it as a ticket.
 
 If you'd like to take on an idea, just assign it to yourself. Also, add any tags that you think are necessary or helpful.
 
-Track progress on your project in the [Waffle Board https://waffle.io/MapStory/Content]
+Track progress on your project in the Waffle Board: https://waffle.io/MapStory/Content
